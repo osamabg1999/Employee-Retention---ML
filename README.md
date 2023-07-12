@@ -68,7 +68,7 @@ The goal is to predict whether an employee leaves the company, which is a catego
 ### Best model results
 ![model](https://github.com/osamabg1999/Employee-Retention---ML/assets/110773783/e367e410-a4d4-4c9e-b4be-3369931a4612)
 
-The classification report above shows that the LGBM Classifier model achieved a precision of 98.8%, recall of 91.8%, f1-score of 95.2%, and accuracy of 98.4%. Since it's most important to predict employees who leave, our recall score of 91.8% is pretty good.
+The classification report above shows that the Random Forest Classifier model achieved a precision of 98.8%, recall of 91.8%, f1-score of 95.2%, and accuracy of 98.4%. Since it's most important to predict employees who leave, our recall score of 91.8% is pretty good.
 
 ![feature-imp](https://github.com/osamabg1999/Employee-Retention---ML/assets/110773783/510fb527-dfe6-4a0d-b54d-0e3ada1a0056)
 
