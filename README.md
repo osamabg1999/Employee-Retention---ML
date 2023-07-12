@@ -72,7 +72,7 @@ The classification report above shows that the Random Forest Classifier model ac
 
 ![feature-imp](https://github.com/osamabg1999/Employee-Retention---ML/assets/110773783/510fb527-dfe6-4a0d-b54d-0e3ada1a0056)
 
-## Conclusion and Recommendations¶
+## Conclusion and Recommendations
 The models and the feature importances extracted from the models confirm that employees at the company are overworked.
 
 To retain employees, the following recommendations could be presented to the stakeholders:
