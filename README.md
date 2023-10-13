@@ -1,4 +1,4 @@
-# Employee Retention Project: ML
+# Talent Traction: Employee Retention Optimization through ML 
 Predict whether or not an employee will leave the company.
 
 ## Business Scenario and Problem
